@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nathan Addis</h1>
-<h3 align="center">A passionate Software Engineer specializing in web and mobile application development</h3>
+# Hi 👋, I'm Nathan Addis
+### A passionate Software Engineer specializing in web and mobile application development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natan21addis&label=Profile%20views&color=0e75b6&style=flat" alt="natan21addis" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natan21addis" alt="natan21addis" /></a> </p>
+- ![AI Icon](https://img.icons8.com/ios-filled/50/ffffff/artificial-intelligence.png) I’m currently learning **AI and Machine Learning**
 
-- 🌱 I’m currently learning **AI and Machine Learing**
+- ![Help Icon](https://img.icons8.com/ios-filled/50/ffffff/help.png) Ask me about **React, React Native, Vue, Node, Express, MongoDB**, and anything else—I'm always here to help!
 
-- 💬 Ask me about **React,React-Native,Vue,Node,Express,MONGODB and any thing i am always there to help**
+- ![Resume Icon](https://img.icons8.com/ios-filled/50/ffffff/resume.png) Know about my experiences [View My Resume](https://flowcv.com/resume/q6nes21ei1)
 
-- 📄 Know about my experiences [https://flowcv.com/resume/q6nes21ei1](https://flowcv.com/resume/q6nes21ei1)
+- Fun fact: **I may tell terrible jokes, but I can always make anyone smile with them!**
 
-- ⚡ Fun fact **I may tell terrible jokes, but I can always make anyone smile with them**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
